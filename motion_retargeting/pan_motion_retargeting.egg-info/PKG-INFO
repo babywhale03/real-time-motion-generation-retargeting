@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: pan-motion-retargeting
+Version: 0.0.0
+Summary: The official PyTorch implementation of the paper `Pose-aware Attention Network for Flexible Motion Retargeting by Body Part.`
+Home-page: UNKNOWN
+Author: Shihong Xia
+Author-email: xsh@ict.ac.cn
+License: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8.12
+License-File: LICENSE
+
+UNKNOWN
+

@@ -1,0 +1,1 @@
+./train_mixamo.py --save_dir ./pretrained_mixamo --batch_size 128 --model pan --learning_rate 1e-3 --cuda_device cuda --use_parallel True

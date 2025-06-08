@@ -1,0 +1,1 @@
+train_lafan1dog --save_dir ./pretrained_lafan1dog --rec_loss_type norm_rec --device cuda:0 --batch_size 128 --with_end True --save_iter 500
